@@ -6,9 +6,7 @@ export const blogConfig = {
   description:
     "一个御主、漂泊着、指挥官、召唤师、褪色者、舰长... ...的沙贝二次元空间",
   social: [
-    { platform: "github", url: "https://github.com/example" },
-    { platform: "email", url: "mailto:example@email.com" },
-    { platform: "rss", url: "/rss.xml" },
+    { platform: "bilibili", url: "https://b23.tv/1J6RmBU" },
   ],
   icons: {
     faviconSvg: "/favicon.svg",
