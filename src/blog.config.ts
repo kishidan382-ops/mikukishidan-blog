@@ -1,10 +1,10 @@
 import type { SiteConfig } from "@/features/config/site-config.schema";
 
 export const blogConfig = {
-  title: "站点名称",
-  author: "作者",
+  title: "miku kishidan",
+  author: "kishidan",
   description:
-    "这是我的个人网站和博客。在这里，我主要分享与技术和生活相关的内容。欢迎阅读！",
+    "一个御主、漂泊着、指挥官、召唤师、褪色者、舰长... ...的沙贝二次元空间",
   social: [
     { platform: "github", url: "https://github.com/example" },
     { platform: "email", url: "mailto:example@email.com" },
