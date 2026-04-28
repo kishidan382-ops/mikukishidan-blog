@@ -4,9 +4,10 @@ export const blogConfig = {
   title: "miku kishidan",
   author: "kishidan",
   description:
-    "一个御主、漂泊着、指挥官、召唤师、褪色者、舰长... ...的沙贝二次元空间",
+    "一个御主、漂泊者、指挥官、召唤师、褪色者、舰长... ...的沙贝二次元空间",
   social: [
     { platform: "bilibili", url: "https://b23.tv/1J6RmBU" },
+    { platform: "steam", url: "https://steamcommunity.com/profiles/76561198388518012/friends/add" },
   ],
   icons: {
     faviconSvg: "/favicon.svg",
